@@ -10,7 +10,7 @@ class Student:
         self.dob = date(2005, 4, 14)
         self.age = math.floor((date.today() - self.dob).days/365)
         self.lang = ("Tamil", "English")
-        self.loc = "Chennai, India"
+        self.loc = "Bonn, Germany"
         self.code_lang = ["Python", "C", "C++", "Java"]
         self.code_framework = ["OpenCV", "Flask", "FastAPI", "discord.py"]
         self.learning = ["Rust", "Django", "TensorFlow"]
