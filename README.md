@@ -1,6 +1,6 @@
 <h1 align="center">Kishor Ramanan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?color=1F60ED&center=true&vCenter=true&lines=Sathyabama+University+Student;ML+Developer;DL+and+Cyber+Security+Enthusiast" alt="DL and Cyber Security Enthusiast!" />
+  <!-- <img src="https://readme-typing-svg.demolab.com/?color=1F60ED&center=true&vCenter=true&lines=Sathyabama+University+Student;ML+Developer;DL+and+Cyber+Security+Enthusiast" alt="DL and Cyber Security Enthusiast!" /> -->
 </p>
 
 ```python
