@@ -22,9 +22,6 @@ if __name__ == "__main__":
     import math
     from datetime import date
 
-    me = Student("Sathyabama University")
+    me = Student("H-BRS")
     print(me)
 ```
-## Github Status
-<img src="https://github-readme-streak-stats-five-tan.vercel.app?user=kishor1445&theme=transparent&hide_border=true" alt="GitHub Streak" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=kishor1445&theme=transparent&hide_border=true" alt="GitHub Stats" />
